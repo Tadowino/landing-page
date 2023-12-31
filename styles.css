@@ -116,5 +116,46 @@ figure{
     margin-top: 0;
     font-weight: 700;
 }
+.fourth-page{
+    background-color: white;
+    height:300px;
+    width: 100%;
+    padding-top: 20px;
+    color: white;
+}
+.blue-card{
+    background-color: #3882F6;
+    margin: auto;
+    width: 1000px;
+    height: 200px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap :60px;
+}
+.call{
+  margin-bottom: 1px;
+}
+.lst-btn{
+    padding-top: 30px;
+    height:30px;
+    width: 90px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+}
+#btn-3{
+    height:30px;
+    width: 90px;
+    background-color: #3882F6;
+    color: #E5E7EB; 
+}
+footer{
+    background-color: #1F2937;
+    height:100px;
+    width: 100%;  
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
 
 
